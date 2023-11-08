@@ -7,6 +7,8 @@ import PropagateLoader from 'react-spinners/PropagateLoader';
 import Header from './Components/Header';
 import Products from './Components/Products';
 import About from './Components/About';
+import Contact from './Components/Contact';
+import Footer from './Components/Footer';
 
 function App() {
   const[loading,setLoading] =useState(false);
@@ -31,6 +33,8 @@ function App() {
         <Header/>
         <Products/>
         <About/>
+        <Contact/>
+        <Footer/>
         </div>
       }
 

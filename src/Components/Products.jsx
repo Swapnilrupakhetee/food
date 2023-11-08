@@ -11,6 +11,12 @@ function Products() {
             <Productbox image={pimage1} title="Smoked Beer"/>
             <Productbox image={pimage2} title="Iced Beer"/>
             <Productbox image={pimage1} title="Cream Beer"/>
+            <Productbox image={pimage1} title="Smoked Beer"/>
+            <Productbox image={pimage2} title="Iced Beer"/>
+            <Productbox image={pimage1} title="Cream Beer"/>
+            <Productbox image={pimage1} title="Smoked Beer"/>
+            <Productbox image={pimage2} title="Iced Beer"/>
+            
         </div>
 
     </div>
