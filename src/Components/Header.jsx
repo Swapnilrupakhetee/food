@@ -6,7 +6,7 @@ function Header() {
         <div className='header-heading'>
             <h3>Get a good taste of the DRINK</h3>
             <h1><span>DRINK </span>FOR <br/>WEEK</h1>
-            <p className='details'>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+            
             <div className='header-btns'>
                 <a href='#'className='header-btn'>Order</a>
 
